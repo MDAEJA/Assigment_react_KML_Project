@@ -18,7 +18,7 @@ KML File Viewer is a React-based application that allows users to upload and vis
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/kml-file-viewer.git
+   git clone  https://github.com/MDAEJA/Assigment_react_KML_Project.git
    cd kml-file-viewer
    ```
 2. Install dependencies:
@@ -57,4 +57,4 @@ KML File Viewer is a React-based application that allows users to upload and vis
 This project is licensed under the MIT License.
 
 ## Author
-Developed by [Your Name](https://github.com/your-username).
+Developed by [Md Aejaz Ahmed]( https://github.com/MDAEJA/Assigment_react_KML_Project.git).
